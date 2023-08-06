@@ -2,7 +2,7 @@
 ### Olá, mundo! <h3>
 #### Me chamo Letícia Neves, vem me conhecer! <h4>
 #
-- 📝 Análise e Desenvolvimento de Sistemas 1/5!
+- 📝 Análise e Desenvolvimento de Sistemas 2/5!
 - 💬 Sou bilíngue, falo inglês avançado! I speak English, so feel free to talk to me! 🇧🇷 🇺🇸
 - 🌐 Estou aprendendo Web Development, com HTML, CSS e JavaScript!
 - 📒 Atualmente estudando Java e Python!
